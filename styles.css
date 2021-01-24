@@ -4,6 +4,25 @@ body {
 	animation: gradient 15s ease infinite;
 }
 
+h1 {
+  
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 6em;
+    font-weight: bold;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-align: center;
+    vertical-align: middle;
+    }
+    
+    span {
+      
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    }
+    
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
@@ -14,4 +33,5 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
+  
 }
