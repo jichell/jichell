@@ -8,13 +8,6 @@ h1 {
     letter-spacing: 0em;
     line-height: auto;
     text-align: center;
- 
-    span {
-      
-    display: inline-block;
-    vertical-align: middle;
-    line-height: auto;
-    }
     
     {
 	background: linear-gradient(-45deg, #ece7ff, #fffae2);
