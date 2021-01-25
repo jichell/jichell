@@ -1,14 +1,14 @@
 body {
 	background: linear-gradient(-45deg, #b6f0da, #e9e6ff, #ffefff, #fef7e8, #fffce7);
 	background-size: 1000% 1000%;
-	animation: gradient 10s ease infinite;
+	animation: gradient 4s ease infinite;
 }
 
   h1
       {
         font-size: 6em;
         font-family: 'Helvetica Neue', sans-serif;
-        color: #ffffff;
+        color: #fafafa;
         letter-spacing: 0em; 
         line-height: 1em;
         margin: 0;
